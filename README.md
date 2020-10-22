@@ -7,3 +7,15 @@ Introduced by psychologist David Navon in the 1970s to study how people process 
 `navon_rotated_stims` contains subdirectories corresponding to shape labels, each containing images of that shape.
 	
 `generate_navon_stims.py` is the script used to generate the stimuli.
+
+## References
+@article{navon1977forest,
+  title={Forest before trees: The precedence of global features in visual perception},
+  author={Navon, David},
+  journal={Cognitive psychology},
+  volume={9},
+  number={3},
+  pages={353--383},
+  year={1977},
+  publisher={Elsevier}
+}
