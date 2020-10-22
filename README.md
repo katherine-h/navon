@@ -9,6 +9,7 @@ Introduced by psychologist David Navon in the 1970s to study how people process 
 `generate_navon_stims.py` is the script used to generate the stimuli.
 
 ## References
+```
 @article{navon1977forest,
   title={Forest before trees: The precedence of global features in visual perception},
   author={Navon, David},
@@ -19,3 +20,4 @@ Introduced by psychologist David Navon in the 1970s to study how people process 
   year={1977},
   publisher={Elsevier}
 }
+```
